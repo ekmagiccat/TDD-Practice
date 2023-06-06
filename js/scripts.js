@@ -103,7 +103,7 @@ function numberOfOccurrencesInText(word, text) {
   return wordCount;
 }
 
-//TDD practice lesson 28
+//Practice lesson 28
 function omitCurseWords(text) {
   let curseWords = ["zoinks", "muppeteer", "biffaroni", "loopdaloop"];
   console.log(text);
