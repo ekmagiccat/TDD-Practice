@@ -116,4 +116,3 @@ function omitCurseWords(text) {
   return wordOutput;
 }
 
-// test
